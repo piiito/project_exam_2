@@ -1,0 +1,23 @@
+
+header .navbar-brand{
+    font-family: Megrim;
+    font-size: 3.5rem;
+    color: $quaternary;
+}
+
+header{
+    background-image: url('../images/wave(2).svg');
+    background-size: cover;
+    background-position: 75% 0%;
+    color: #330000;
+    font-family: Thasadith, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    height: 200px;
+    color: $secondary;
+    
+}
+
+.nav-link {
+    margin: 0px 5px;
+}

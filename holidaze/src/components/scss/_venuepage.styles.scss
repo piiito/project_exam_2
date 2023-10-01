@@ -1,0 +1,25 @@
+.venue-page{
+    background-color: $white;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.venue-page img{
+    border-radius: 50px;
+}
+
+.meta-list li{
+    background-color: $quaternary;
+    border-radius: 50px;
+    margin: 5px 0px;
+}
+
+.book-form input{
+    border-radius: 50px;
+    border-color: $pink;
+
+}
+
+.book-form button{
+    color: black;
+}

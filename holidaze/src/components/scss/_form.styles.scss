@@ -1,0 +1,20 @@
+.form-control{
+    border-radius: 100px;
+    border: solid;
+    border-width: 4px;
+    border-color: $pink;
+}
+
+
+
+.form-control:disabled{
+    opacity: 50%;
+    cursor:not-allowed;
+}
+
+input{
+    border-radius: 50px;
+    border: solid;
+    border-width: 2px;
+    border-color: $pink;
+}

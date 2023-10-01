@@ -1,0 +1,14 @@
+.card{
+    box-shadow: lightgrey 0px 3px 8px;
+}
+
+.card-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.card-text{
+    background-color: $quaternary;
+    border-radius: 50px;
+}

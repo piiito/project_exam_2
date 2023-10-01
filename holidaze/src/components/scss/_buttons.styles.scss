@@ -1,0 +1,58 @@
+body .btn-primary{
+    background-color: $primary;
+    border-color: $primary;
+}
+
+body .btn-primary:hover{
+    background-color: $secondary;
+    border-color: $primary;
+}
+
+body .btn-secondary{
+    background-color: $tertiary;
+    border-color: $secondary;
+}
+
+body .btn-secondary:hover{
+    background-color: $tertiary;
+    border-color: $secondary;
+}
+
+
+body .btn-outline-secondary, body .btn-outline-success{
+    background-color: $quaternary;
+    border-color: $quaternary;
+}
+body .btn-outline-secondary:hover, body .btn-outline-success:hover{
+    background-color: $primary;
+    border-color: $primary;
+}
+body .btn-outline-secondary:active, body .btn-outline-success:active, body .btn-outline-secondary:focus, body .btn-outline-success:focus{
+    background-color: $quaternary;
+    border-color: $quaternary;
+}
+
+body .btn-outline-secondary:hover{
+    background-color: $tertiary;
+    border-color: $tertiary;
+}
+
+body .btn{
+    box-shadow: grey 0px 3px 8px;
+    border-radius: 2em;
+    color: #330000;
+    font-size: 1.2rem;
+}
+
+body a{
+    text-decoration: none;
+    color: #330000;
+    font-family: Thasadith, sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+.button-resize{
+    width: 50%;
+}

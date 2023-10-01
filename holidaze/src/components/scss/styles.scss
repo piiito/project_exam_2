@@ -1,0 +1,59 @@
+@import './variables.styles';
+@import './node_modules/bootstrap/scss/bootstrap.scss';
+
+@import './main.styles';
+@import './header.styles';
+@import './buttons.styles';
+@import './footer.styles';
+@import './form.styles';
+@import './card.styles';
+@import './venuepage.styles';
+@import './avatar.styles';
+
+@font-face {
+    font-family: 'NTR';
+    src: url('../fonts/NTR-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Megrim';
+    src: url('../fonts/Megrim-Regular.ttf') format('truetype');
+    
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Thasadith';
+    src: url('../fonts/Thasadith-Bold.ttf') format('truetype');
+
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Thasadith';
+    src: url('../fonts/Thasadith-BoldItalic.ttf') format('truetype');
+
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Thasadith';
+    src: url('../fonts/Thasadith-Italic.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Thasadith';
+    src: url('../fonts/Thasadith-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+  }
